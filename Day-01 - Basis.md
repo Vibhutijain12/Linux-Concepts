@@ -40,7 +40,8 @@ e. The browser then displays the information to you.
 
 A website that hosts static content like blogs, header images, or articles can run on a web server. However, most websites and web applications are much more interactive and require an application server.
 
-2. How an application server works
+2. How an application server works -
+
 An application server extends the capabilities of a web server by supporting dynamic content generation, application logic, and integration with various resources.
 
 When you attempt to access interactive content on a website, the process works as follows:
