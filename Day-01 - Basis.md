@@ -7,7 +7,7 @@ Internet service providers install the router, wifi and other devices for us, an
 
 DATA CENTER —-----> CABLES—---------> CABLES PROVIDER—-----> INTERNET SERVICE PROVIDER(ISP)-------------------------> GENERATE THE IP ADDRESS TO IDENTIFIES THE DEVICES—---> SEND DATA
 
-#### 2. What is a server ?
+#### 2. What is a server?
 A server is a computer program or device that provides a service to another computer program and its user, also known as the client.
 
 Server - To Provide the information.
