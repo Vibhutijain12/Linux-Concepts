@@ -23,9 +23,7 @@ Here are some basic and most commonly used Linux commands in a simple format:
 | mv old new         | Move or rename file/folder                  |
 | cat                | Display the content of a file               |
 | echo               | Print text or message on screen             | 
-| tee                | Takes output from another command and copy  | 
-                     | it to a file while still showing it on      |
-                     | screen.                                     | 
+| tee              | Takes output from another command and copies it to a file while still showing it on screen.     | 
 
 #### File Handling
 
