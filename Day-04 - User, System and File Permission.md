@@ -6,8 +6,7 @@ Here are some basic and most commonly used Linux commands in a simple format:
 
 | Command                                 | Meaning                                                         |
 | --------------------------------------- | --------------------------------------------------------------- |
-| cat /etc/os-release                   | Shows the information about OS of the Linux.        
-|
+| cat /etc/os-release                   | Shows the information about OS of the Linux.                      |
 | uname -a                              | Shows system information (kernel, architecture, OS).            |
 | top                                   | Displays real-time running processes and system resource usage. |
 | htop                                  | Enhanced version of top (interactive, colorful).              |
@@ -23,7 +22,7 @@ Here are some basic and most commonly used Linux commands in a simple format:
 | uptime                             | Shows how long the system has been running, the number of users logged in, and the system load average.                              | 
 | who                                | Shows all users currently logged into the system, along with login time, terminal, and source. |
 | whoami                             | Displays the current logged-in user's username. | 
-| which                              | Shows the full path of a command/executable that will run when you type it.                      | 
+| which                              | Shows the full path of a command/executable that will run when you type it.   | 
 
 #### 2. User Management commands
 
