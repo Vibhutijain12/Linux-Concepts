@@ -61,9 +61,7 @@ A stream editor used to modify text using patterns—commonly for search/replace
 | How to stop execution of sed command as soon as first occurance found?              | sed ‘/India/ q’ file_name <br> sed ‘5 q’ file_name (stop execution at line 5)                                                                                    | sed ‘/India/ q’ file_name                      |
 | How to provide exit status for your sed command?                                    | sed ‘/India/ q 100’ file_name                                                                                                                                    | sed ‘/India/ q 100’ file_name                  |
 | How to execute external command line date in your expression?                       | sed '2 e date' file_name                                                                                                                                         | sed '2 e date' file_name                       |
-|
-| How to see the line number in file?                                       | sed '=' file_name                                                                                                                                                          | sed '=' file_name                              |
-|                                                                                     | sed -n -e '/TEST/=' app.txt                                                                                                                                      | sed -n -e '/TEST/=' app.txt                    |
+
 
 #### 3. awk
 A powerful text-processing and pattern-scanning language used to filter data, extract fields, and perform calculations or complex transformations on text (especially columnar data).
